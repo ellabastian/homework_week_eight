@@ -10,5 +10,4 @@ order by fine_amount;
 end$$
 
 delimiter ;
-
 call GetCustomerFine()
